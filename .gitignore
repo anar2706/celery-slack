@@ -43,3 +43,4 @@ dump.rdb
 
 # wheels
 pip-wheel-metadata
+.venv

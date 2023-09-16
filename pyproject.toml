@@ -53,7 +53,7 @@ classifiers = [
 python = "~2.7 || ^3.5"
 requests = "^2.22"
 ephem = "^3.7"
-celery = ">=3.1,<5.0"
+celery = ">=3.1,<5.4"
 
 [tool.poetry.dev-dependencies]
 pytest = "^4.6"
